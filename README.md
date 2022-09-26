@@ -1,2 +1,2 @@
 # Statistical-Analysis
-Statistical analysis project on Medical Appointments dataset
+Statistical analysis assignment on Medical Appointments dataset
